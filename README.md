@@ -5,4 +5,4 @@ Dataset can be found here: https://drive.google.com/file/d/1F7s0b0ju0gWYaXwYi-yq
 
 Pretrained weights here: https://drive.google.com/drive/folders/1ew2UfFIFhGEvthi0eZoN_OKbKljrAkY4?usp=drive_link
 
-The dataset was prepared before the official start of the hackathon and the idea was concieved earlier too.
+The dataset was prepared before the official start of the hackathon and the idea was concieved earlier too. Parts of the code was generated with Gemini 3.
